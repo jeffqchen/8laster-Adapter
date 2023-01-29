@@ -71,7 +71,7 @@ Then, insert the 8-pin mini DIN male plug from the "Inside" side. Make sure it's
 
 Fit the soldered assembly into the shells and close up with the M3x8mm screw and nut.
 
-Note the nut is on the 8DIN side and the nut is on the 9DIN side.
+Note the nut is on the 8DIN side and the screw is on the 9DIN side.
 
 <img src="./Pics/out.jpg" width=400> <img src="./Pics/in.jpg" width=400>
 
