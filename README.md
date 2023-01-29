@@ -27,7 +27,7 @@ The 8laster adds another set of 150 ohm resistors (R1-R3) to GND on the RGB line
 
 It offers the option to add the attenuation resistor (R4) on the adapter instead of the RGB Blaster itself. The value 150 plus the original internal 47R is close enough to the suggested 220R (If you insist having the exact value, 173 Ohm would be the proper value).
 
-However, if you've ALREADY applied the suggested fixes, R4 shall be zero ohm or shorted with a solder blob instead.
+However, if you've ALREADY applied the suggested fixes, omit R4 and close J1 with a solder blob.
 
 Regarding the suggested fix on the 680R resistor, if you don't feel confident removing the original 680R resistor, you can add a 1.5K Ohm one piggy-backing onto the original one to achieve the intended 470R.
 
@@ -35,7 +35,7 @@ Regarding the suggested fix on the 680R resistor, if you don't feel confident re
 
 ## Parts
 
-- [8laster PCB](https://oshpark.com/projects/jjx0xhsL)
+- [8laster PCB](https://oshpark.com/projects/GstOPotZ)
 
 - 3D-printed shells
   - [Front](https://github.com/jeffqchen/8laster-Adapter/blob/main/3D%20Print/Front%20Shell.stl)
@@ -50,7 +50,6 @@ Regarding the suggested fix on the 680R resistor, if you don't feel confident re
 - M3x8mm screw and nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
 - [4x] SMD resistors, Imperial size 0603, 150 Ohm for R1-R4
- - *Optional* [1x] SMD resistor, Imperial size 0603, 0 Ohm, replacing R4
 
 ## 3D Print
 Print the shells as indicated in the picture, with support.
@@ -59,7 +58,7 @@ Print the shells as indicated in the picture, with support.
 
 ## Assembly
 
-First, populate the SMD R1-R4 on the PCB. Short R4 if the suggested fix was already applied.
+First, populate the SMD R1-R4 on the PCB. Short J1 if the suggested fixes were already applied.
 
 <img src="./Pics/solder2.jpg" width=400>
 
