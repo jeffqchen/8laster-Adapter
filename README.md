@@ -33,6 +33,10 @@ Regarding the suggested fix on the 680R resistor, if you don't feel confident re
 
 <img src="./Pics/suggested_fix.jpg" width=400>
 
+### Going Completely Stock?
+
+If you did NOT apply any of the suggested fixes, with a properly configured 8laster, you will get a proper image, just slightly darker than optimal.
+
 ## Parts
 
 - [8laster PCB](https://oshpark.com/projects/GstOPotZ)
