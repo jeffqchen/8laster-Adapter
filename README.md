@@ -10,7 +10,7 @@ However, the initial batch of the RGB Blaster had several issues. Krikzz posted 
 
 For the initial batch units, we not only need to apply the [suggested fix](https://twitter.com/krikzz/status/1605908227190833153), but also it seems the video DAC chip [ADV7123](https://www.analog.com/en/products/adv7123.html) is not suitable to work with a 9-pin mini DIN RGBS SCART standard cable. Instead, the 8-pin mini DIN "XRGB Mini" standard, which is also used on the NESRGB and 3DORGB, seems to be a better one. Therefore, I created this 9-pin mini DIN to 8-pin mini DIN adapter called the "8laster".
 
-The 8laster works with my own [8DIN2VGA adapter](https://github.com/jeffqchen/8DIN2VGA) and has all the Famicom consoles in consideration.
+The 8laster works with my own [8DIN2VGA adapter](https://github.com/jeffqchen/8DIN2VGA) and has almost all the Famicom consoles in consideration (yeah, I don't have the titler.)
 
 <img src="./Pics/angles_famicom1.jpg" width=300> <img src="./Pics/angles_famicom2.jpg" width=300>
 <img src="./Pics/angles_twinfamicomI1.jpg" width=300> <img src="./Pics/angles_twinfamicomI2.jpg" width=300>
