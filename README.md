@@ -38,6 +38,8 @@ Regarding the suggested fix on the 680R resistor, if you don't feel confident re
 - [8laster PCB](https://oshpark.com/projects/jjx0xhsL)
 
 - 3D-printed shells
+  - [Front](https://github.com/jeffqchen/8laster-Adapter/blob/main/3D%20Print/Front%20Shell.stl)
+  - [Back](https://github.com/jeffqchen/8laster-Adapter/blob/main/3D%20Print/Back%20Shell.stl)
 
 - 8-pin mini DIN Female Socket (widely available from various sources)
 
