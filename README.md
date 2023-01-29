@@ -36,12 +36,16 @@ Regarding the suggested fix on the 680R resistor, if you don't feel confident re
 ## Parts
 
 - [8laster PCB](https://oshpark.com/projects/jjx0xhsL)
+
 - 3D-printed shells
+
 - 8-pin mini DIN Female Socket (widely available from various sources)
 
 <img src="./Pics/8din.jpg" width=400>
 - 9 pin Mini DIN Male Plug, Through-Hole Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/9Pin/Through%20Hole/info.md)
+
 - M3x8mm screw and nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
+
 - [4x] SMD resistors, Imperial size 0603, 150 Ohm for R1-R4
  - *Optional* SMD resistors, Imperial size 0603, 0 Ohm, replacing R4
 
