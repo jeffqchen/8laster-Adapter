@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "RGB Blaster 8DIN Adapter")(type "KiCad")(uri "${KIPRJMOD}/RGB Blaster 8DIN Adapter.pretty")(options "")(descr ""))
+)
