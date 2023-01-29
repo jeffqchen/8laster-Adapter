@@ -27,7 +27,7 @@ The 8laster adds another set of 150 ohm resistors (R1-R3) to GND on the RGB line
 
 It offers the option to add the attenuation resistor (R4) on the adapter instead of the RGB Blaster itself. The value 150 plus the original internal 47R is close enough to the suggested 220R (If you insist having the exact value, 173 Ohm would be the proper value).
 
-However, if you've ALREADY applied the suggested fixes, omit R4 and close J1 with a solder blob.
+However, if you've **ALREADY** applied the suggested fixes, you must close J1 with a solder blob.
 
 Regarding the suggested fix on the 680R resistor, if you don't feel confident removing the original 680R resistor, you can add a 1.5K Ohm one piggy-backing onto the original one to achieve the intended 470R.
 
