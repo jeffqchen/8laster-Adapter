@@ -50,7 +50,7 @@ Regarding the suggested fix on the 680R resistor, if you don't feel confident re
 - M3x8mm screw and nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
 - [4x] SMD resistors, Imperial size 0603, 150 Ohm for R1-R4
- - *Optional* SMD resistors, Imperial size 0603, 0 Ohm, replacing R4
+ - *Optional* [1x] SMD resistor, Imperial size 0603, 0 Ohm, replacing R4
 
 ## 3D Print
 Print the shells as indicated in the picture, with support.
@@ -72,3 +72,15 @@ Then, insert the 8-pin mini DIN male plug from the "Inside" side. Make sure it's
 Fit the soldered assembly into the shells and close up with the M3x8mm screw and nut.
 
 <img src="./Pics/out.jpg" width=400> <img src="./Pics/in.jpg" width=400>
+
+-----
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
